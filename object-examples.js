@@ -15,5 +15,10 @@ var animal = {
   peopleBitten: ['Max', 'Adam', 'Lucy', 'Abem', 'Kamila']
 }
 
-
-var customer
+var customer = {
+  isAlwaysRight: false,
+  noiseMade: "I want to see your manager",
+  age: "Too old for this",
+  numComplaints: 43,
+  whoHatesThem: ['manager', 'vendors', 'kids', 'strangers']
+}
